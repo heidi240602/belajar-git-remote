@@ -1,1 +1,2 @@
 isi 2
+penmbahan file 2 di fitur b commit ke 1
